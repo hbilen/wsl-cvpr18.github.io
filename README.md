@@ -1,7 +1,3 @@
-# The Slate theme
-
-# Time: 08.30-12.00 (Half Day Morning)
-
 # Organizers/Speakers
 * Rodrigo Benenson
 * Hakan Bilen
@@ -13,11 +9,12 @@
 
 This tutorial will provide an overview of weakly supervised learning methods in computer vision, and we will discuss the broad area of weakly supervised object recognition and its limitations of current state-of-the-art, evaluation metrics, and future ideas that will spur disruptive progress in the field of weakly supervised learning.
 
+# Time: 08.30-12.00 (Half Day Morning)
 # Schedule:
-| start-time | Talk | Speaker |
-| 09.00 | Introduction                      | Hakan Bilen (University of Edinburgh) |
-| 09.15 | Weakly supervised object detection| Hakan Bilen (University of Edinburgh) |
-| 10.00 | Morning break |
-| 10.30 | Weakly supervised semantic segmentation, Rodrigo Benenson (Google) |
-| 11.15 | Less weakly supervised object detection and segmentation, Jasper Uijlings (Google) |
-| 12.00 | Closing remarks, Rodrigo Benenson (Google) | 
+
+| 09.00 | Introduction                      | Hakan Bilen |
+| 09.15 | Weakly supervised object detection| Hakan Bilen |
+| 10.00 | Morning break | |
+| 10.30 | Weakly supervised semantic segmentation | Rodrigo Benenson |
+| 11.15 | Less weakly supervised object detection and segmentation | Jasper Uijlings |
+| 12.00 | Closing remarks | Rodrigo Benenson | 
