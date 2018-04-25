@@ -16,15 +16,15 @@ This tutorial will provide an overview of weakly supervised learning methods in 
 <!-- Team Members Row -->
 <figure>
 <img style="width:12em;" src="{{ site.baseurl }}/assets/rodrigo.jpg" alt="Rodrigo Benenson"/>
-<ficaption><a href="http://rodrigob.github.io/">Rodrigo Benenson</a></ficaption>
+<ficaption><a href="http://rodrigob.github.io/">Rodrigo Benenson</a><br>Google</ficaption>
 </figure>
 <figure>
 <img class="img-circle img-responsive center-block" style="width:12em;" src="{{ site.baseurl }}/assets/hakan.jpg" alt="Hakan Bilen">
-<ficaption><a href="http://homepages.inf.ed.ac.uk/hbilen/">Hakan Bilen</a></ficaption>
+<ficaption><a href="http://homepages.inf.ed.ac.uk/hbilen/">Hakan Bilen</a><br>University of Edinburgh</ficaption>
 </figure>
 <figure>
 <img class="img-circle img-responsive center-block" style="width:12em" src="{{ site.baseurl }}/assets/jasper.jpg" alt="Jasper Uijlings">
-<ficaption><a href="https://research.google.com/pubs/JasperUijlings.html">Jasper Uijlings</a></ficaption>
+<ficaption><a href="https://research.google.com/pubs/JasperUijlings.html">Jasper Uijlings</a><br>Google</ficaption>
 </figure>
 
 <h2>Schedule</h2> 
