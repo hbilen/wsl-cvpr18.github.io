@@ -31,12 +31,12 @@ This tutorial will provide an overview of weakly supervised learning methods in 
 <h4>June 18, Room 151 ABC</h4>
 <div align="left">
 <span style="font-size:larger;">
-09.00. Introduction, by Hakan Bilen<br>
-09.15. Weakly supervised object detection, by Hakan Bilen<br>
+09.00. Introduction, by Jasper Uijlings<br>
+09.15. <a href="{{ site.baseurl }}/assets/wsod.pdf">Weakly supervised object detection</a> by Hakan Bilen<br>
 10.00. Morning break <br>
-10.30. Weakly supervised semantic segmentation, by Rodrigo Benenson<br>
-11.15. Less weakly supervised object detection and segmentation, by Jasper Uijlings <br>
-12.00. Closing remarks, by Rodrigo Benenson<br>
+10.30. Weakly supervised semantic segmentation by Rodrigo Benenson<br>
+11.15. Less weakly supervised object detection and segmentation by Jasper Uijlings <br>
+12.00. Closing remarks by Rodrigo Benenson<br>
 </span>
 </div>
 
