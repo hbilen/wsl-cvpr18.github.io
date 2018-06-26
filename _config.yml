@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: Weakly Supervised Learning for Computer Vision 
+description: CVPR 2018 Tutorial
+show_downloads: false 
+theme: jekyll-theme-slate
